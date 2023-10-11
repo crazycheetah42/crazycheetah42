@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on big projects.
 - 📫 How to reach me: Send me an email at: aryaman842@gmail.com
 
-[![Aryaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycheetah42)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycheetah42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 My website is at https://www.aryatechspace.com
